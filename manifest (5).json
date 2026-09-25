@@ -1,0 +1,25 @@
+{
+  "name": "Azar Planner",
+  "short_name": "Azar Planner",
+  "description": "Personal finance, Day Board and Daily Activity planner with cloud sync.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f2ec",
+  "theme_color": "#17324f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
